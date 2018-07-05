@@ -1,0 +1,4 @@
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\bin\Debug\DTO.dll
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\bin\Debug\DTO.pdb
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\obj\Debug\DTO.dll
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\obj\Debug\DTO.pdb

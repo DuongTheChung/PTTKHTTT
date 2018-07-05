@@ -1,0 +1,4 @@
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\bin\Release\DTO.dll
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\bin\Release\DTO.pdb
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\obj\Release\DTO.dll
+C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DTO\obj\Release\DTO.pdb
