@@ -1,9 +1,0 @@
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\BUS.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\BUS.pdb
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\DAO.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\DTO.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\DAO.pdb
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\bin\Debug\DTO.pdb
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\obj\Debug\BUS.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\BUS\obj\Debug\BUS.pdb

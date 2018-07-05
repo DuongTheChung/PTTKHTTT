@@ -1,7 +1,0 @@
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\bin\Release\DAO.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\bin\Release\DAO.pdb
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\bin\Release\DTO.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\bin\Release\DTO.pdb
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\obj\Release\DAO.csprojResolveAssemblyReference.cache
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\obj\Release\DAO.dll
-C:\Users\CHUNG\documents\visual studio 2010\Projects\QuanLyNhaHang\DAO\obj\Release\DAO.pdb
